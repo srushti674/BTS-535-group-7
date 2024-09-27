@@ -24,10 +24,6 @@ To fix these problems, the platform will make sure all contractors are verified 
 - **Cloud Hosting**: The platform will be hosted on AWS to ensure reliability and security.
 
 
-## Problem 4: ???
+## Problem 4: Onboarding and Training of Tradespeople/Expansion
 
-[SWOT]
-
-[Solution]
-
-[Tech]
+One challenge a tradesperson service might encounter is difficulty in scaling its operations. Expanding into new locations or trades requires finding and onboarding tradespeople who are familiar with local markets and practices. Small businesses/apps may not have the resources to handle the logistical issues of training, supporting, and managing operations in multiple areas as it can stretch resources thin, leading to operational inefficiencies. One solution is to collaborate with local trade schools and offer apprenticeships to students. This improves reputation within the communities and locations one seeks to break into and also ensures a steady stream of young candidates. Additionally, partnering with local tradespeople who already have an established presence in the market can help them get more business, while helping the app further expand. However, limited resources for scaling may hinder the ability to support rapid onboarding and training in new areas and a lack of standardization across different regions and trades could result in inconsistent service quality. Within this weakness lies an opportunity to introduce localized training programs or apprenticeships that can help develop skilled tradespeople while improving brand recognition. One threat that could appear is competitors with larger networks or more resources could expand more quickly and capture target markets. The solution is the creation of a streamlined onboarding system within the app to onboard and train new tradespeople. This system could include interactive training modules to guarantee tradespeople are well-versed in the app's features and service standards. Additionally, incorporating a partner portal would facilitate the onboarding of established local tradespeople, allowing for quick integration into the platform. Technologies like a learning management system (LMS) for training and automated documentation tools would provide the necessary infrastructure to support onboarding and ensure a smooth expansion process.
