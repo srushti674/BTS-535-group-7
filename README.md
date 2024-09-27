@@ -1,7 +1,6 @@
 # BTS-535-group-7
 
 ## Problem 3: Unreliable contractors/Unclear billing of services/scams/Lack of trust/reliability of services e.g. inflated or fake reviews 
-Here's the content formatted in `.md` (Markdown) style for your README file:
 
 One big issue when hiring tradespeople, like electricians or plumbers, is trust. Some contractors may be unreliable, unclear about their prices, or even scammers. Customers often don't know if the reviews they see are real or if the price they are quoted will change later. This lack of trust makes it hard for people to feel confident when hiring someone for their projects.
 
